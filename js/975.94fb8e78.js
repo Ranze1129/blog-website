@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkblog_client"]=self["webpackChunkblog_client"]||[]).push([[975],{3975:function(t,n,e){e.r(n),e.d(n,{default:function(){return o}});var l=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",{staticClass:"notFound"},[e("div",{staticClass:"content"},[e("div",[t._v("当前页面不存在，请检查网址是否正确")]),e("div",[t._v(" 返回 "),e("router-link",{attrs:{to:"/"}},[t._v("首页")])],1)])])},s=[],u={name:"NotFound"},i=u,a=e(1001),c=(0,a.Z)(i,l,s,!1,null,"b8e3417a",null),o=c.exports}}]);
+//# sourceMappingURL=975.94fb8e78.js.map
